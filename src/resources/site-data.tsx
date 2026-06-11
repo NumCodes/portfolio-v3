@@ -71,7 +71,6 @@ const siteData = {
     { name: "LinkedIn", icon: "linkedin", link: "https://linkedin.com/in/ugochukwu-nweze-08812a2b8" },
     { name: "Twitter", icon: "twitter", link: "https://x.com/CodesNum80638" },
     { name: "Telegram", icon: "telegram", link: "#" },
-    { name: "Facebook", icon: "facebook", link: "https://facebook.com/umutxyp" },
   ],
   about: {
     introTitle: "Who I am",
