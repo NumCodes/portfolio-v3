@@ -22,8 +22,8 @@ To run the project locally, you'll need Node.js and npm (or yarn/pnpm) installed
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/umutxyp-portfolio.git
-    cd umutxyp-portfolio
+    git clone https://github.com/numcodes/portfolio-v4.git
+    cd portfolio-v4
     ```
 2.  Install dependencies:
     ```bash
@@ -44,10 +44,10 @@ To run the project locally, you'll need Node.js and npm (or yarn/pnpm) installed
 Here are a couple of examples of what you'll see on the portfolio:
 
 #### An!on Editor Project Showcase
-![An!on Editor Project Screenshot](/images/projects/what.png)
+![An!on Editor Project Screenshot](public/images/projects/what.png)
 
 #### AccessiLearn Project Showcase
-![AccessiLearn Project Screenshot](/images/projects/accessilearn.png)
+![AccessiLearn Project Screenshot](public/images/projects/accessilearn.png)
 
 ## Features
 
