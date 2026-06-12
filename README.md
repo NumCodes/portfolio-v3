@@ -22,8 +22,8 @@ To run the project locally, you'll need Node.js and npm (or yarn/pnpm) installed
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/numcodes/portfolio-v4.git
-    cd portfolio-v4
+    git clone https://github.com/numcodes/portfolio-v3.git
+    cd portfolio-v3
     ```
 2.  Install dependencies:
     ```bash
