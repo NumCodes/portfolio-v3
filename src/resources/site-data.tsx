@@ -165,13 +165,9 @@ const siteData = {
     highlight: [
       "An!on",
       "Accessilearn",
-      "MusicBot",
-      "VipTransferTR",
-      "DNZGeriDonusum",
-      "CreatorStudioAutomation",
     ],
     description:
-      "Open-sourcing Discord bots, automation pipelines, and production-ready SaaS starters used inside An!on.",
+      "Learning is not a burden, but a ticket out of confusion.",
   },
 };
 
