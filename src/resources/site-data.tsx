@@ -64,9 +64,9 @@ const siteData = {
   },
   social: [
     { name: "Instagram", icon: "instagram", link: "https://instagram.com/num_codes" },
-    { name: "YouTube", icon: "youtube", link: "http://www.youtube.com/@risecapital1" },
+    { name: "YouTube", icon: "youtube", link: "http://www.youtube.com/@numcodes" },
     { name: "TikTok", icon: "tiktok", link: "https://tiktok.com/@numcodes" },
-    { name: "Discord", icon: "discord", link: "#" },
+    { name: "Discord", icon: "discord", link: "https://discord.gg/numcodes_18763" },
     { name: "GitHub", icon: "github", link: "https://github.com/numcodes" },
     { name: "LinkedIn", icon: "linkedin", link: "https://linkedin.com/in/ugochukwu-nweze-08812a2b8" },
     { name: "Twitter", icon: "twitter", link: "https://x.com/CodesNum80638" },
