@@ -80,8 +80,8 @@ Here are a couple of examples of what you'll see on the portfolio:
 **Num Codes**
 AI Systems Researcher · Full-Stack Developer
 
-*   **Website**: [https://numcodes.vercel.app](https://numcodes.vercel.app)
-*   **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/ugochukwu-nweze-08812a2b8)
+*   **Website**: [Previous 3d Portfolio](https://numcodes.vercel.app)
+*   **LinkedIn**: [Ugochukwu Nweze](https://linkedin.com/in/ugochukwu-nweze-08812a2b8)
 *   **X (Twitter)**: [@CodesNum80638](https://x.com/CodesNum80638)
 *   **GitHub**: [numcodes](https://github.com/numcodes)
 *   **Instagram**: [num_codes](https://instagram.com/num_codes)
